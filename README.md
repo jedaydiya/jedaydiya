@@ -2,9 +2,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 =======================================================================================================================================
 
 I am a Front End Developer.
-Bachelor of Science in Information Technology Major in Web and Mobile Development Graduate
---------------------------
 
+--------------------------
+* 🎓  Bachelor of Science in Information Technology Major in Web and Mobile Development 
 * 🌍  I'm based in Philippines
 * 🧠  I'm learning tRPC and Prisma
 * 🧠  Learning Node, MongoDb and Express
