@@ -1,11 +1,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jedidiah Joloan
 =======================================================================================================================================
 
-I am a Front End Developer
+I am a Front End Developer.
+Bachelor of Science in Information Technology Major in Web and Mobile Development Graduate
 --------------------------
 
 * 🌍  I'm based in Philippines
 * 🧠  I'm learning tRPC and Prisma
+* 🧠  Learning Node, MongoDb and Express
 * 🤝  I'm open to collaborating on interesting projects
 
 ### Skills
