@@ -7,7 +7,6 @@ I am a Front End Developer.
 * 🎓  Bachelor of Science in Information Technology Major in Web and Mobile Development 
 * 🌍  I'm based in Philippines
 * 🧠  I'm learning tRPC and Prisma
-* 🧠  Learning Node, MongoDb and Express
 * 🤝  I'm open to collaborating on interesting projects
 
 ### Skills
