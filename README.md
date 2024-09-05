@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jedidiah Joloan
 =======================================================================================================================================
 
-I am a Front End Developer.
+I am a React Native Developer at Camp Connection.
 
 --------------------------
 * 🎓  Bachelor of Science in Information Technology Major in Web and Mobile Development 
