@@ -6,8 +6,7 @@ I am a React Native Developer at Camp Connection.
 --------------------------
 * 🎓  Bachelor of Science in Information Technology Major in Web and Mobile Development 
 * 🌍  I'm based in Philippines
-* 🧠  I'm learning NextJS Server Actions
-* 🤝  I'm open to collaborating on interesting projects
+
 
 ### Skills
 
